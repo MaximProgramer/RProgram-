@@ -5,4 +5,5 @@ jobs:
     runs-on: windows-latest
     steps:
       - name: print to my console
-        run: echo Hello GH Actions
+        run: Hello GH Actions
+        run: Hello to my service room
