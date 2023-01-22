@@ -1,0 +1,8 @@
+name: bublic
+on: workflow_dispatch
+jobs:
+  system:
+    runs-on: windows-latest
+    steps:
+      - name: print to my console
+        run: echo Hello GH Actions
