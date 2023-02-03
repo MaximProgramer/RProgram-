@@ -1,4 +1,4 @@
-name: bublic
+name: public
 on: workflow_dispatch
 jobs:
   system:
